@@ -1,3 +1,3 @@
 @ECHO OFF
-echo It Works!
+echo It hopefully works!
 PAUSE
